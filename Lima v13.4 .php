@@ -6,7 +6,7 @@ if ($pkgName == "com.example.alertsmali")
 {
     $json["title"] = "";
     $json["message"] = "برای ویرایش این برنامه زحمت زیادی کشیده شده است، لطفا در چنل ما عضو شوید.";
-    $json["dismissable"] = false;
+    $json["dismissable"] = true;
     $json["dismissTxt"] = "رد";
     $json["okTxt"] = "عضویت";
     $json["okUrl"] = "https://google.com";
@@ -15,7 +15,7 @@ if ($pkgName == "com.example.alertsmali")
 {
     $json["title"] = "";
     $json["message"] = "برای ویرایش این برنامه زحمت زیادی کشیده شده است، لطفا در چنل ما عضو شوید.";
-    $json["dismissable"] = false;
+    $json["dismissable"] = true;
     $json["dismissTxt"] = "رد";
     $json["okTxt"] = "عضویت";
     $json["okUrl"] = "https://google.com";
